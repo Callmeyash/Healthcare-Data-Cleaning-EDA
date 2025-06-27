@@ -23,4 +23,4 @@ Performed complete data cleaning and preparation on a messy healthcare dataset i
 Generated a clean, feature-rich dataset ready for data analysis and machine learning.
 
 ## 📎 Kaggle Notebook Link
-[View Live Notebook 🚀]((https://www.kaggle.com/code/datawithyash/healthcare-messy-data-cleaning-feature-eng-py))
+[View Live Notebook 🚀](https://www.kaggle.com/code/datawithyash/healthcare-messy-data-cleaning-feature-eng-py)
